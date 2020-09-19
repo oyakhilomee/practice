@@ -1,5 +1,5 @@
   div {
-    border-radius: 10px;
+    border-radius: 11px;
     width: 90%;
     height: 450px;
     margin: 50px auto;
@@ -9,8 +9,8 @@
 p {
     font-family: lato;
     text-transform: uppercase;
-    font-size: 30px;
-    color: blue;
+    font-size: 50px;
+    color: black;
     text-align: center;
     padding: 180px;
 }
